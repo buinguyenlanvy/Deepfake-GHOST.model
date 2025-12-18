@@ -7,4 +7,4 @@ Training set: 8,631 danh tính với khoảng 3.0 triệu ảnh
 Test set: 500 danh tính với khoảng 169,000 ảnh
 Mỗi phần được thiết kế sao cho không có sự trùng lặp giữa các danh tính trong tập huấn luyện và kiểm tra. Điều này tạo ra sự đa dạng trong phân phối khuôn mặt với mỗi đối tượng.
 
-Dataset được download tại: Link download
+Dataset được download tại: https://www.kaggle.com/datasets/greatgamedota/vggface2-test
