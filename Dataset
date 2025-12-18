@@ -1,0 +1,10 @@
+Dataset:
+Để thực hiện huấn luyện mô hình, nhóm chúng tôi đã sử dụng bộ dữ liệu VGGFace2. VGGFace2 là một bộ dữ liệu lớn và phong phú được thiết kế dành cho các nghiên cứu về nhận diện khuôn mặt và các nhiệm vụ liên quan. Bộ dữ liệu này có quy mô lớn, đến 9,131 danh tính với hơn 3.31 triệu ảnh khuôn mặt (khoảng 3000 ảnh cho mỗi danh tính, đa dạng về góc nhìn, tuổi tác và biểu cảm).
+Các ảnh này được thu thập từ công cụ Google Image Search và đã qua xử lý. Do đó, ảnh có sự thay đổi đáng kể về góc nhìn, ánh sáng, độ phân giải và phong cách chụp ảnh cũng như có sự khác biệt về bối cảnh và nền ảnh, giúp mô phỏng dữ liệu trong môi trường một cách thực tế hơn.
+
+Bộ dữ liệu được chia thành 2 phần:
+Training set: 8,631 danh tính với khoảng 3.0 triệu ảnh
+Test set: 500 danh tính với khoảng 169,000 ảnh
+Mỗi phần được thiết kế sao cho không có sự trùng lặp giữa các danh tính trong tập huấn luyện và kiểm tra. Điều này tạo ra sự đa dạng trong phân phối khuôn mặt với mỗi đối tượng.
+
+Dataset được download tại: Link download
